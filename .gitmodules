@@ -1,0 +1,3 @@
+[submodule "Vendor/Dwolla"]
+	path = Vendor/Dwolla
+	url = https://github.com/Dwolla/dwolla-php.git
